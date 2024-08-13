@@ -47,3 +47,4 @@ db.all(sql,[],(err,rows)=>{
                   rows.forEach((row)=>{console.log(row)})   
 });
 
+///ALTERACOES
